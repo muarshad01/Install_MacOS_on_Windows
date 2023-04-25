@@ -13,6 +13,7 @@ Useful Links
 * https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 
+
 # 2. Download MacOS ISO
 https://archive.org/details/macos-collection
 
