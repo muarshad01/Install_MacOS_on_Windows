@@ -7,16 +7,15 @@ Useful Links
 * [Try macOS on Windows 11](https://www.youtube.com/watch?v=fcf0NIFsoo0)
 
 
-# Install VirtualBox
+# 1. Install VirtualBox Hypervisor for Windows 11
 
-* [VirtualBox -- Hypervisor](https://www.virtualbox.org/)
+* [VirtualBox](https://www.virtualbox.org/)
 
 ```
 C:\Program Files\Oracle\VirtualBox
 ```
 
 * https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-
 
 
 # 2. Download MacOS ISO
