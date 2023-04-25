@@ -2,10 +2,6 @@
 
 ***
 
-Useful Links
-
-* [Try macOS on Windows 11](https://www.youtube.com/watch?v=fcf0NIFsoo0)
-
 ![Hypervisor](https://github.com/muarshad01/Install_MacOS_on_Windows/blob/main/images/hypervisor.png)
 
 ***
@@ -21,11 +17,13 @@ C:\Program Files\Oracle\VirtualBox
 ***
 
 # 2. Download MacOS ISO
+
 * https://archive.org/details/macos-collection
 
 ***
 
 # 3. Create a new Viruta machine
+
 ed "%programfiles%\Oracle\VirtualBox\"
 VBoxManage modifyvm "VM name" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
 VBoxManage setextradata "VM name"
@@ -42,3 +40,11 @@ VBoxManage modifyvm "VM_name"
 --cpu-profile "Intel Xeon X5482 3.20GHz"
 VBoxManage setextradata
 "VM_name" "VBoxInternal/TM/TSCMode" "RealTSCOffset
+
+
+***
+
+Useful Links
+
+* [Try macOS on Windows 11](https://www.youtube.com/watch?v=fcf0NIFsoo0)
+
