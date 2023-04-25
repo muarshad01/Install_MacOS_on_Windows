@@ -8,6 +8,7 @@ Useful Links
 
 ![Hypervisor](https://github.com/muarshad01/Install_MacOS_on_Windows/blob/main/images/hypervisor.png)
 
+***
 
 # 1. Install VirtualBox Hypervisor for Windows 11
 
@@ -19,9 +20,12 @@ C:\Program Files\Oracle\VirtualBox
 
 * https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
+***
 
 # 2. Download MacOS ISO
-https://archive.org/details/macos-collection
+* https://archive.org/details/macos-collection
+
+***
 
 # 3. Create a new Viruta machine
 ed "%programfiles%\Oracle\VirtualBox\"
