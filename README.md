@@ -24,6 +24,7 @@ C:\Program Files\Oracle\VirtualBox
 
 # 3. Create a new Viruta machine
 
+```
 ed "%programfiles%\Oracle\VirtualBox\"
 VBoxManage modifyvm "VM name" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
 VBoxManage setextradata "VM name"
@@ -40,7 +41,7 @@ VBoxManage modifyvm "VM_name"
 --cpu-profile "Intel Xeon X5482 3.20GHz"
 VBoxManage setextradata
 "VM_name" "VBoxInternal/TM/TSCMode" "RealTSCOffset
-
+```
 
 ***
 
