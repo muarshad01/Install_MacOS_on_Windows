@@ -35,7 +35,7 @@ VBoxManage setextradata "VM name" "VBoxInternal/Devices/efi/0/Config/DmiBoardPro
 
 VBoxManage setextradata "VM name" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedple:
 VBoxManage setextradata "VM name"
-VBoxManage modifyvm "VM_name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromealSMC"1
+VBoxManage modifyvm     "VM_name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromealSMC"1
 
 --cpu-profile "Intel Xeon X5482 3.20GHz"
 VBoxManage setextradata "VM_name" "VBoxInternal/TM/TSCMode" "RealTSCOffset
