@@ -4,4 +4,4 @@
 
 Useful Links
 
-[Try macOS on Windows 11](https://www.youtube.com/watch?v=fcf0NIFsoo0)
+* [Try macOS on Windows 11](https://www.youtube.com/watch?v=fcf0NIFsoo0)
