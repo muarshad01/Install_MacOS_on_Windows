@@ -6,7 +6,7 @@
 
 ***
 
-# 1. Install VirtualBox -- Hypervisor -- for Windows 11
+# 1. Install Oracle VM VirtualBox -- Hypervisor -- for Windows 11
 
 * [VirtualBox](https://www.virtualbox.org/)
 
